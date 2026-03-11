@@ -11,3 +11,4 @@ Ce projet affiche les horaires d’ouverture selon le jour et indique si Little 
 
 ## Utilisation
 Modifier les variables `weekday` et `hour` dans `main.kt` puis exécuter le programme pour tester les résultats.
+![Kotlin Lab2]( https://github.com/user-attachments/assets/654f5e1b-4311-4765-b3f2-d04fd551a881)
